@@ -1,4 +1,2 @@
 - 👋 Hey, I’m Gage.
-- 👀 This is my first creation on GitHub as I continue to expand my skillset in technology.
-- 💻 Currently I'm learning cybersecurity, with a a big focus on penetration testing. I love nothing more than solving puzzles except maybe my cat, Sophia. She's great.
-- 🤤 I’m looking to collaborate on anything related to cybersecurity and learn alongside others. 
+- 👀 This is my first creation on GitHub as I continue to expand my skillset in development.
